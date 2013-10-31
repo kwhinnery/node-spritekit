@@ -1,0 +1,27 @@
+{
+  "name": "node-spritekit",
+  "version": "0.0.1",
+  "description": "A node.js interface for SpriteKit on iOS, using MobileNode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kwhinnery/node-spritekit.git"
+  },
+  "keywords": [
+    "games",
+    "mobile",
+    "ios",
+    "spritekit"
+  ],
+  "author": "Kevin Whinnery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwhinnery/node-spritekit/issues"
+  },
+  "dependencies": {
+    "underscore": "~1.5.2"
+  }
+}
